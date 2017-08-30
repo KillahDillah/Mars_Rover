@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  margin: auto;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
